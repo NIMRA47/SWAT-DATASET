@@ -68,7 +68,7 @@ To explore, preprocess, and analyze the SWaT dataset using classical machine lea
 
 NIMRA SHAKOOR  
 BS Software Engineering Student  
-_This project was part of a machine learning lab assignment on cyber-physical system security._
+_This project was part of a  implementation of  a machine learning  models on SwAt dataset._
 
 ---
 
